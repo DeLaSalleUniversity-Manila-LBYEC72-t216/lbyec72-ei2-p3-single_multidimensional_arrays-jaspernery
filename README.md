@@ -1,10 +1,8 @@
 # Activity3-NeryJ
 
-![](menu,png)
+![](menuinvalid.jpg)
 
 ![](poly.png)
-
-![](menuinvalid.jpg)
 
 ![](statmean.jpg)
 
