@@ -1,6 +1,6 @@
 # Activity3-NeryJ
 
-![](menunew.jpg)
+![](menu,png)
 
 ![](poly.png)
 
