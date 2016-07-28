@@ -2,9 +2,9 @@
 
 #UPDATE!
 
-![](prog.jpg)
+![](prog.JPG)
 
-![](prog2.jpg)
+![](prog2.JPG)
 
 ![](menuinvalid.jpg)
 
